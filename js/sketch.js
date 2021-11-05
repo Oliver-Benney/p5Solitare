@@ -9,7 +9,6 @@ function setup() {
 
 function draw() {
 
-  
     //vars
   cardX= width/2;
   cardY= height/2;
