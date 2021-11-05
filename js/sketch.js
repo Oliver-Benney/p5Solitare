@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(r,g,b) 
+
   
     //vars
   cardX= width/2;
